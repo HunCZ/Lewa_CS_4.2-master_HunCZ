@@ -261,9 +261,9 @@
   <string name="gemini_sim_tether_info_title">Kontakty a SIM</string>
   <string name="gemini_sim_tether_add_record">Přidat kontakty</string>
   <string name="gemini_sim_add_title">Kontakty</string>
-  <string name="gemini_sim_tether_norecord">"You don't have any contact number associated with current SIM.
+  <string name="gemini_sim_tether_norecord">"Nemáte žádné kontaktní telefonní číslo spojené s aktuální SIM kartou.
 
-Touch the Add contacts button to select the contacts you want to bind to this SIM"</string>
+Klepněte na tlačítko Přidat kontakty a vyberte kontakty, které chcete svázat s touto SIM"</string>
   <string name="gemini_sim_tether_nocontacts">Žádné kontakty nejsou uloženy v telefonu. Přidejte nový kontakt nebo importujte kontakty.</string>
   <string name="gemini_sim_tether_no_assc_contacts">Kontakty jsou vázány úspěšně</string>
   <string name="gemini_sim_tether_disassociate">Zrušit přiřazení</string>
@@ -368,23 +368,23 @@ Touch the Add contacts button to select the contacts you want to bind to this SI
   <string name="wifi_ap_client_mac_label">MAC address:</string>
   <string name="wifi_ap_client_ip_label">IP address:</string>
   <string name="usb_sharing_title">USB Internet</string>
-  <string name="usb_sharing_summary">Sharing Windows PC internet via USB cable</string>
+  <string name="usb_sharing_summary">Sdílení Windows PC internet přes kabel USB</string>
   <string name="usb_sharing_info_title">Internet pass-through</string>
-  <string name="usb_sharing_info_step_1">1. Open network connections on your Windows PC.</string>
-  <string name="usb_sharing_info_step_2">2. Right-click the connection that you want to share, and then click properties.</string>
-  <string name="usb_sharing_info_step_3">"3. Click the sharing tab, and select 'Allow other network users to connect through this computer's internet connection'(choose newly added netork which represents USB internet if 'Home networking connection' appears)."</string>
-  <string name="wifi_ap_bandwidth_title">Bandwidth usage</string>
-  <string name="wifi_ap_bandwidth_enable">Enable bandwidth throttling</string>
-  <string name="wifi_ap_bandwidth_chart_title">Real-time data speed</string>
-  <string name="wifi_ap_bandwidth_chart_summary">"Measured by your phone, your carrier's data speed accounting may differ."</string>
-  <string name="wifi_wps_fail_error">Wi-Fi protected setup failed, try again.</string>
-  <string name="wifi_ap_title">Statistics</string>
-  <string name="wifi_ap_time_duration">Time of duration:%1$s</string>
-  <string name="wifi_ap_total_data">Total of used data:%1$s</string>
+  <string name="usb_sharing_info_step_1">1. Otevřete ovládací panel Síťová připojení ve vašem počítači se systémem Windows.</string>
+  <string name="usb_sharing_info_step_2">2. Klepněte pravým tlačítkem myši na připojení, které chcete sdílet a potom klepněte na příkaz Vlastnosti.</string>
+  <string name="usb_sharing_info_step_3">"3. Klepněte na kartu sdílení, a vyberte možnost "Umožnit ostatním uživatelům v síti využívat připojení k Internetu tohoto počítače" (vyberte nově přidaný netork což představuje USB připojení k internetu, pokud se objeví "Domácí síť spojení")."</string>
+  <string name="wifi_ap_bandwidth_title">využití šířky pásma</string>
+  <string name="wifi_ap_bandwidth_enable">Povolit omezení šířky pásma</string>
+  <string name="wifi_ap_bandwidth_chart_title">Rychlost přenosu dat v reálném čase</string>
+  <string name="wifi_ap_bandwidth_chart_summary">"Měřeno v telefonu, rychlosti dat od vašeho operátora se mohou lišit."</string>
+  <string name="wifi_wps_fail_error">Wi-Fi chráněná nastavení selhala, zkuste to znovu.</string>
+  <string name="wifi_ap_title">Statistiky</string>
+  <string name="wifi_ap_time_duration">Doba trvání:%1$s</string>
+  <string name="wifi_ap_total_data">Celkem použito dat:%1$s</string>
   <string name="wifi_ap_bandwidth_megabyteShort">M/s</string>
   <string name="wifi_ap_bandwidth_KbyteShort">KB/s</string>
-  <string name="cpu_dtm_title">CPU power saving mode</string>
-  <string name="cpu_dtm_summary">Limit the maximum CPU performance to conserve battery life and lower device temperature.</string>
+  <string name="cpu_dtm_title">CPU režim úspory energie</string>
+  <string name="cpu_dtm_summary">Omezit maximální výkon procesoru, prodloužíte tím životnost baterie a je nižší teplota zařízení.</string>
   <string name="wifi_advanced_ipv4_address_title">IPv4 address</string>
   <string name="wifi_advanced_ipv6_address_title">IPv6 address</string>
   <string name="wifi_ipv4_address">IPv4 address</string>
@@ -414,11 +414,11 @@ Touch the Add contacts button to select the contacts you want to bind to this SI
   <string name="beam_share_mgmt_notification_title">Beam share history</string>
   <string name="beam_share_mgmt_notification_message">Select to view Beam share history.</string>
   <string name="beam_share_mgmt_tab_menu_clear">Clear all</string>
-  <string name="beam_share_open_file_dialog_title">"Can't open the file"</string>
-  <string name="beam_share_open_file_unsupported_message">The file format is not supported.</string>
-  <string name="beam_share_open_file_not_found_message">File not found: %1$s</string>
-  <string name="beam_share_transfer_fail_dialog_title">Beam failed</string>
-  <string name="beam_share_resend_dialog_message">%1$s was not sent successfully.</string>
+  <string name="beam_share_open_file_dialog_title">"Nelze otevřít soubor"</string>
+  <string name="beam_share_open_file_unsupported_message">Formát souboru není podporován.</string>
+  <string name="beam_share_open_file_not_found_message">Soubor nenalezen: %1$s</string>
+  <string name="beam_share_transfer_fail_dialog_title">Beam selhal</string>
+  <string name="beam_share_resend_dialog_message">%1$s nebyl odesláno.</string>
   <string name="beam_share_resend_dialog_ok_button">Try again</string>
   <string name="beam_share_show_received_files_menu">Show received files</string>
   <string name="beam_share_history_title">Beam share history</string>
@@ -432,16 +432,16 @@ Touch the Add contacts button to select the contacts you want to bind to this SI
   <string name="nfc_tag_mode_category">Tag mode</string>
   <string name="nfc_rw_tag_title">Tag reading &amp; writing</string>
   <string name="nfc_rw_tag_summary">Read from or write to a tag</string>
-  <string name="voice_unlock_backup_info_summary">"When Voice Unlock can't recognize you, how do you want to unlock?"</string>
-  <string name="unlock_set_unlock_mode_voice_weak">Voice Unlock</string>
-  <string name="voice_ui_title">Voice Control</string>
-  <string name="voice_ui_app_category">For apps</string>
-  <string name="voice_ui_setting_category">Settings</string>
-  <string name="voice_ui_language_title">Language for Voice Control</string>
-  <string name="incoming_call_app_name">Incomming call</string>
+  <string name="voice_unlock_backup_info_summary">"Když Odemknutí hlasem nerozpozná Váš hlas, jak chcete odemknout?"</string>
+  <string name="unlock_set_unlock_mode_voice_weak">Odemknutí hlasem</string>
+  <string name="voice_ui_title">Ovládání hlasem</string>
+  <string name="voice_ui_app_category">Pro aplikace</string>
+  <string name="voice_ui_setting_category">Nastavení</string>
+  <string name="voice_ui_language_title">Jazyk pro ovládání hlasem</string>
+  <string name="incoming_call_app_name">Příchozí hovor</string>
   <string name="alarm_app_name">Alarm</string>
-  <string name="camera_app_name">Camera</string>
-  <string name="music_app_name">Music</string>
+  <string name="camera_app_name">Kamera</string>
+  <string name="music_app_name">Hudba</string>
   <string name="incomming_command_summary_format">You can say %1$s or %2$s to answer or reject incomming calls.</string>
   <string name="alarm_command_summary_format">You can say %1$s or %2$s to control the alarm.</string>
   <string name="camera_command_summary_format">You can say %1$s or %2$s to capture.</string>
@@ -617,7 +617,7 @@ Touch the Add contacts button to select the contacts you want to bind to this SI
   <string name="date_time_12_hour_sample">1:00 pm</string>
   <string name="date_time_24_hour_sample">13:00</string>
   <string name="choose_timezone">Vybrat časové pásmo</string>
-  <string name="default_date_format">dd/MM/yyyy</string>
+  <string name="default_date_format">dd.MM.yyyy</string>
   <string name="normal_date_format">Regionální (%s)</string>
   <string name="display_preview_label">Náhled:</string>
   <string name="display_font_size_label">Velikost písma:</string>
@@ -1033,12 +1033,12 @@ This setting affects all users on this phone."</string>
   <string name="wifi_failed_save_message">Nepodařžilo se uložit síť</string>
   <string name="wifi_cancel">Zrušit</string>
   <string name="wifi_skip_anyway">Skip anyway</string>
-  <string name="wifi_dont_skip">"Don't skip"</string>
-  <string name="wifi_skipped_message">"WARNING: You may incur extra carrier data charges.
+  <string name="wifi_dont_skip">"Nepřeskakovat"</string>
+  <string name="wifi_skipped_message">"VAROVÁNÍ: mohou být účtovány další poplatky za přenos dat.
 
-Phone setup can require significant network activity."</string>
-  <string name="wifi_and_mobile_skipped_message">"WARNING: The phone won't be able to verify that your software is up to date."</string>
-  <string name="wifi_connect_failed_message">The phone was unable to connect to this Wi-Fi network.</string>
+Nastavení telefonu může vyžadovat značnou aktivitu v síti."</string>
+  <string name="wifi_and_mobile_skipped_message">"VAROVÁNÍ: telefon nebude moci ověřit, zda je váš software aktuální."</string>
+  <string name="wifi_connect_failed_message">Telefon se nemohl připojit k této síti Wi-Fi.</string>
   <string name="wifi_advanced_titlebar">Rozšířené nastavení Wi-Fi</string>
   <string name="wifi_setting_frequency_band_title">Frekvenční pásmo Wi-Fi</string>
   <string name="wifi_setting_frequency_band_summary">Uveďte provozní frekvenční rozsah</string>
@@ -1326,21 +1326,21 @@ Phone setup can require significant network activity."</string>
   <string name="restore_default_apn_completed">Obnovení výchozích nastavení názvu přístupového bodu (APN) bylo dokončeno.</string>
   <string name="master_clear_title">Obnovení továrních dat</string>
   <string name="master_clear_summary">Vymaže všechna data v telefonu</string>
-  <string name="master_clear_desc">"This will erase all data from your phone's "<b>internal storage</b>", including:
+  <string name="master_clear_desc">"To vymaže všechna data z vašeho telefonu "<b>interní úložiště</b>", včetně:
 
-"<li>Your Google account</li>"
-"<li>System and app data and settings</li>"
-"<li>Downloaded apps</li>
+"<li>Vašeho účtu Google</li>"
+"<li>Systému, dat aplikací a nastavení</li>"
+"<li>Stažených aplikací</li>
   </string>
   <string name="master_clear_accounts">Aktuálně jste přihlášeni do následujících účtů:</string>
   <string name="master_clear_desc_also_erases_external">
-    <li>Music</li>"
+    <li>Hudba</li>"
 "
-    <li>Photos</li>"
+    <li>Fotky</li>"
 "
-    <li>Other user data</li>
+    <li>Jiná data uživatele</li>
   </string>
-  <string name="master_clear_desc_erase_external_storage">.<b>SD card</b> needs to be erased.</string>
+  <string name="master_clear_desc_erase_external_storage"> musí být vymazána.<b>SD karta</b> musí být vymazána.</string>
   <string name="erase_external_storage">Smazat SD kartu</string>
   <string name="erase_external_storage_description">Smazat všechna data na SD kartě, například hudbu a fotografie.</string>
   <string name="master_clear_button_text">Resetovat telefon</string>
@@ -1352,7 +1352,7 @@ Phone setup can require significant network activity."</string>
   <string name="master_clear_confirm_title">Resetovat?</string>
   <string name="media_format_title">Smazat SD kartu</string>
   <string name="media_format_summary">Vymaže všechna data na SD kartě</string>
-  <string name="media_format_desc"> data na kartě budou ztracena.<b>all</b> data on the card!</string>
+  <string name="media_format_desc"> data on the card!<b>all</b> data on the card!</string>
   <string name="media_format_button_text">Smazat SD kartu</string>
   <string name="media_format_final_desc">Chcete SD kartu smazat a odstranit tak všechny soubory, které jsou na ní uloženy? Tuto akci nelze vrátit zpět.</string>
   <string name="media_format_final_button_text">Odstranit vše</string>
@@ -1503,7 +1503,9 @@ Phone setup can require significant network activity."</string>
   <string name="show_background_processes">Zobrazit mezipaměť</string>
   <string name="reset_app_preferences">Resetovat předvolby aplikace</string>
   <string name="reset_app_preferences_title">Resetovat předvolby aplikace?</string>
-  <string name="reset_app_preferences_desc">"   O žádné údaje aplikací nepřijdete."<li>Disabled apps</li>"
+  <string name="reset_app_preferences_desc">"
+
+ You will not lose any app data."<li>Disabled apps</li>"
  "<li>Disabled app notifications</li>"
  "<li>Default applications for actions</li>"
  "<li>Background data restrictions for apps</li>"
@@ -1722,15 +1724,19 @@ Phone setup can require significant network activity."</string>
   <string name="accessibility_services_title">Služby</string>
   <string name="accessibility_system_title">Systém</string>
   <string name="accessibility_screen_magnification_title">Gesta zvětšení</string>
-  <string name="accessibility_screen_magnification_summary">"Můžete také dočasně zvětšit, co je pod prstem troj-klepnutím a podržením. V tomto zvětšeném stavu můžete přetáhnout prst, aby prozkoumala různé části obrazovky Zvedněte prst na návrat do svého původního stavu. Poznámka: Troj-tap pro zvětšení funguje všude, kromě klávesnice a navigačního panelu. "<li>
-      <ul>"Pan: Drag two or more fingers across the screen.
-"<li>Adjust zoom level: Pinch two or more fingers together or spread them apart.</li>
+  <string name="accessibility_screen_magnification_summary">"
+
+Můžete také dočasně zvětšit, co je pod prstem troj-klepnutím a podržením. V tomto zvětšeném stavu můžete přetáhnout prst, aby prozkoumal různé části obrazovky. Zvedněte prst na návrat do původního stavu.
+
+Poznámka: Troj-klepnutí pro zvětšení funguje všude kromě klávesnice a navigačního panelu."<li>
+      <ul>"Pan: Přetáhněte dva nebo více prstů po obrazovce.
+"<li>Nastavte úroveň zvětšení: Pinch dva nebo více prstů k sobě nebo roztáhněte je od sebe.</li>
       </ul>
     </li>"
 
-You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
+Můžete také dočasně zvětšit, co je pod prstem triple-klepnutím a podržením. V tomto zvětšeném stavu, můžete přetáhnout prst, aby prozkoumala různé části obrazovky. Zvedněte prst na návrat do svého původního stavu.
 
-Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar."</string>
+Poznámka: Triple-tap pro zvětšení funguje všude, kromě klávesnice a navigační panel."</string>
   <string name="accessibility_global_gesture_preference_title">Zkratka dostupnosti</string>
   <string name="accessibility_global_gesture_preference_summary_on">Zap</string>
   <string name="accessibility_global_gesture_preference_summary_off">Vyp</string>
@@ -1869,7 +1875,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="tts_engine_settings_title">Nastavení pro modul %s</string>
   <string name="pico_languages_and_voices">Jazyky a hlasy</string>
   <string name="pico_installed">Nainstalováno</string>
-  <string name="pico_not_installed">Není nainstalováno</string>
+  <string name="pico_not_installed">Nenainstalováno</string>
   <string name="pico_voice_summary_female">Žena</string>
   <string name="pico_voice_summary_male">Muž</string>
   <string name="tts_notif_engine_install_title">Nainstalován modul syntézy řeči</string>
@@ -1978,7 +1984,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="wifi_setup_status_eap_not_supported">Protokol EAP není podporován.</string>
   <string name="wifi_setup_eap_not_supported">Připojení Wi-Fi EAP nelze nakonfigurovat při instalaci. Můžete to provést po dokončení instalace v nabídce Nastavení v části Bezdrátová připojení a sítě.</string>
   <string name="wifi_setup_description_connecting">Připojování může trvat několik minut...</string>
-  <string name="wifi_setup_description_connected">, chcete-li se připojit k jiné síti Wi-Fi.<b>Next</b>" to continue with setup.
+  <string name="wifi_setup_description_connected"> to connect to a different Wi-Fi network.<b>Next</b>" to continue with setup.
 
 Touch "<b>Back</b> to connect to a different Wi-Fi network.</string>
   <string name="time_zone_auto_stub">Vybrat časovou zónu</string>
@@ -2116,7 +2122,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_3g">2G a 3G</string>
   <string name="data_usage_list_mobile">mobilní</string>
-  <string name="data_usage_list_none">žádné</string>
+  <string name="data_usage_list_none">Žádné</string>
   <string name="data_usage_enable_mobile">Mobilní datové přenosy</string>
   <string name="data_usage_enable_3g">Datové přenosy 2G a 3G</string>
   <string name="data_usage_enable_4g">Datové přenosy 4G</string>
@@ -2140,9 +2146,9 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="data_usage_limit_dialog_mobile">Po dosažení stanoveného limitu bude vaše mobilní datové připojení zakázáno. Jelikož se využití dat měří pomocí vašeho telefonu a operátor může využití dat účtovat jinak, zvažte nastavení nižšího limitu.</string>
   <string name="data_usage_restrict_background_title">Omezení datových přenosů na pozadí?</string>
   <string name="data_usage_restrict_background">Omezíte-li využití mobilních dat na pozadí, některé aplikace a služby nebudou fungovat, dokud se nepřipojíte k síti Wi-Fi.</string>
-  <string name="data_usage_restrict_background_multiuser">"If you restrict background mobile data, some apps and services won't work unless you're connected to a Wi-Fi network.
+  <string name="data_usage_restrict_background_multiuser">"Máte-li omezena mobilní data na pozadí, některé aplikace a služby nefungují, dokud se nepřipojíte k síti Wi-Fi.
 
-This setting affects all users on this phone."</string>
+Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
   <string name="data_usage_sweep_warning">
     <font size="21">^1</font>
     <font size="9">^2</font>"
@@ -2198,7 +2204,7 @@ This setting affects all users on this phone."</string>
   <string name="vpn_menu_delete">Smazat síť</string>
   <string name="vpn_menu_lockdown">Always-on VPN</string>
   <string name="vpn_lockdown_summary">Select a VPN profile to always remain connected to. Network traffic will only be allowed when connected to this VPN.</string>
-  <string name="vpn_lockdown_none">None</string>
+  <string name="vpn_lockdown_none">Žádné</string>
   <string name="vpn_lockdown_config_error">Always-on VPN requires an IP address for both server and DNS.</string>
   <string name="vpn_no_network">Není připojení k síti. Zkuste to později.</string>
   <string name="vpn_missing_cert">Chybí certifikát. Upravte profil.</string>
@@ -2225,12 +2231,12 @@ This setting affects all users on this phone."</string>
   <string name="selinux_status_permissive">Permissive</string>
   <string name="selinux_status_enforcing">Enforcing</string>
   <string name="user_settings_title">Uživatelé a omezení</string>
-  <string name="user_you_section">You</string>
+  <string name="user_you_section">Vy</string>
   <string name="user_list_title">Uživatelé</string>
   <string name="user_add_user_menu">Přidat uživatele</string>
   <string name="user_summary_active">Active</string>
-  <string name="user_summary_inactive">Not active</string>
-  <string name="user_summary_not_set_up">Not set up</string>
+  <string name="user_summary_inactive">Neaktivní</string>
+  <string name="user_summary_not_set_up">Nenastaveno</string>
   <string name="user_owner">Owner</string>
   <string name="user_nickname">Nickname</string>
   <string name="user_add_user_title">Add new user</string>
@@ -2245,20 +2251,20 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="user_setup_dialog_title">Set up user now?</string>
   <string name="user_setup_dialog_message">Make sure the person is available to take the tablet and set up their space</string>
   <string name="user_setup_button_setup_now">Set up now</string>
-  <string name="user_setup_button_setup_later">Not now</string>
-  <string name="user_cannot_manage_message">"Only the phone's owner can manage users."</string>
+  <string name="user_setup_button_setup_later">Teď ne</string>
+  <string name="user_cannot_manage_message">"Pouze majitel telefonu můžete spravovat uživatele."</string>
   <string name="user_remove_user_menu">Odebrat uživatele</string>
   <string name="user_new_user_name">Otravné dítě</string>
   <string name="user_confirm_remove_self_title">Delete yourself?</string>
   <string name="user_confirm_remove_title">Odebrat uživatele?</string>
-  <string name="user_confirm_remove_self_message">"You will lose your space and data on this phone. You can't undo this action."</string>
+  <string name="user_confirm_remove_self_message">"Ztratíte svůj prostor a data o tomto telefonu. Nelze vrátit zpět."</string>
   <string name="user_confirm_remove_message">Chcete odebrat uživatele a všechna související data se zařízením?</string>
-  <string name="user_adding_new_user">Adding new user…</string>
-  <string name="user_delete_user_description">Delete user</string>
-  <string name="user_delete_button">Delete</string>
-  <string name="global_change_warning">This setting affects all users on this phone.</string>
-  <string name="global_locale_change_title">Change language</string>
-  <string name="global_font_change_title">Change font size</string>
+  <string name="user_adding_new_user">Přidání nového uživatele…</string>
+  <string name="user_delete_user_description">Smazat uživatele</string>
+  <string name="user_delete_button">Smazat</string>
+  <string name="global_change_warning">Toto nastavení ovlivní všechny uživatele tohoto telefonu.</string>
+  <string name="global_locale_change_title">Změnit jazyk</string>
+  <string name="global_font_change_title">Změnit velikost písma</string>
   <string name="app_notifications_switch_label">Zobrazit notifikace</string>
   <string name="help_label">Nápověda</string>
   <string name="help_url_wifi"/>
@@ -2491,8 +2497,8 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="halo_title">halo</string>
   <string name="halo_summary_on">open halo</string>
   <string name="halo_summary_off">close halo</string>
-  <string name="thumb_search_title">Fingertip search</string>
-  <string name="thumb_search_msg">Open fingertip search, you can in a web browser interface, long press the text, select the smart choice to search for the information you are interested in.</string>
+  <string name="thumb_search_title">Vyhledávání prsty</string>
+  <string name="thumb_search_msg">Otevřením vyhledávání prstem můžete tuto funkci použít v rozhraní webového prohlížeče, dlouhý stisk textu vybere inteligentní volbu hledání informace, která Vás zajímá</string>
   <string name="led_settings">Notifikační LED dioda</string>
   <string name="led_colors_summary">Notifikace</string>
   <string name="led_frequence_summary">Nastavte interval blikání LED</string>
@@ -2528,6 +2534,6 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="sensor_shake_ok">Ok</string>
   <string name="sensor_shake_cancel">Zrušit</string>
   <string name="activity_rounded_corner_title">Zobrazit zaoblené rohy obrazovek</string>
-  <string name="123">ROM HunCZ</string>
-  <string name="456">V5-GG</string>
+  <string name="123">ROM by HunCZ</string>
+  <string name="456">V5 CZ</string>
 </resources>
