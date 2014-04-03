@@ -2,7 +2,7 @@
 <!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>-->
 <resources>
   <string name="Hearing_loss">Vyhněte se poslechu při velké hlasitosti a ochraňte tak vaše uši</string>
-  <string name="app_name">Lewa přehrávač</string>
+  <string name="app_name">Hudba</string>
   <string name="action_settings">Nastavení</string>
   <string name="title_activity_play">PlayActivity</string>
   <string name="title_activity_library">LibraryActivity</string>
@@ -110,12 +110,12 @@
   <string name="setting_backlight_summary">Obrazovka zůstane zapnuta, zatímco skladba hraje</string>
   <string name="setting_lewaid_title">LeWa ID</string>
   <string name="setting_lewaid_key">lewaidkey</string>
-  <string name="setting_downimg_summary">Umělec obrázek a album umění</string>
-  <string name="setting_downlrc_title">Získejte texty</string>
+  <string name="setting_downimg_summary">Obrázek umělce a obal alba</string>
+  <string name="setting_downlrc_title">Získat texty</string>
   <string name="setting_downInfo_title">Stáhnout písně informace</string>
-  <string name="setting_downlrc_summary">Získejte texty</string>
+  <string name="setting_downlrc_summary">Získat texty</string>
   <string name="setting_downlrc_key">isdownlrc</string>
-  <string name="setting_downimg_title">Získejte kresby</string>
+  <string name="setting_downimg_title">Získat  kresby</string>
   <string name="setting_downimg_key">isdownimg</string>
   <string name="setting_downInfo_key">isdownInfo</string>
   <string name="setting_flowhint_key">isflowhint</string>
@@ -256,7 +256,7 @@
   <string name="click_to_shuffle">Klikněte pro náhodné přehrávání</string>
   <string name="music_setting">Hudební nastavení</string>
   <string name="setting_networking">Síťové nastavení</string>
-  <string name="flow_hint">Datového toku oznámení</string>
+  <string name="flow_hint">Oznámení datového toku</string>
   <string name="setting_flowhint_summary">Varování při stahování s datovým tokem</string>
   <string name="file_filter">Zvolte si vlastní hudební soubory</string>
   <string name="filter_songs">Blokování písní do 60 sekund</string>
