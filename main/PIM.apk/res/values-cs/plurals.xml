@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d kontaktů s telefonním číslem</item>
+        <item quantity="one">1 kontakt s telefonním číslem</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d kontaktů</item>
+        <item quantity="one">1 kontakt</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d nalezených</item>
+        <item quantity="one">1 nalezený</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d nálezených</item>
+        <item quantity="one">1 nálezený</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">sloučených ze %0$d zdrojů</item>
+        <item quantity="one">nesloučených</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d skupin</item>
+        <item quantity="one">1 skupina</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d osob od %2$s</item>
+        <item quantity="one">%1$d osoba od %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d osob</item>
+        <item quantity="one">%1$d osoba</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Odkazových zpráv</item>
+        <item quantity="one">Odkazová zpráva</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d záznamov hovorů</item>
+        <item quantity="one">1 záznam hovoru</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s konverzací bude smazáno</item>
+        <item quantity="one">Jedna konverzace bude smazána</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sekund</item>
+        <item quantity="one">%s sekunda</item>
+        <item quantity="few">%s sekundy</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s výsledků pro \"%2$s\"</item>
+        <item quantity="one">%1$s výsledek pro \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s osob</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">odosílám %d výpisů o přečtení</item>
+        <item quantity="one">odosílám %d výpis o přečtení</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d označených</item>
+        <item quantity="one">%d označena</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d označených</item>
+        <item quantity="zero">%1$d označeno</item>
+        <item quantity="one">%1$d označena</item>
+    </plurals>
+</resources>
