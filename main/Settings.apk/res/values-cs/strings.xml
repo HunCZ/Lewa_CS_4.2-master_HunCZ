@@ -1326,21 +1326,21 @@ Nastavení telefonu může vyžadovat značnou aktivitu v síti."</string>
   <string name="restore_default_apn_completed">Obnovení výchozích nastavení názvu přístupového bodu (APN) bylo dokončeno.</string>
   <string name="master_clear_title">Obnovení továrních dat</string>
   <string name="master_clear_summary">Vymaže všechna data v telefonu</string>
-  <string name="master_clear_desc">"To vymaže všechna data z vašeho telefonu "<b>interní úložiště</b>", včetně:
+  <string name="master_clear_desc">"This will erase all data from your phone's "<b>internal storage</b>", including:
 
-"<li>Vašeho účtu Google</li>"
-"<li>Systému, dat aplikací a nastavení</li>"
-"<li>Stažených aplikací</li>
+"<li>Your Google account</li>"
+"<li>System and app data and settings</li>"
+"<li>Downloaded apps</li>
   </string>
   <string name="master_clear_accounts">Aktuálně jste přihlášeni do následujících účtů:</string>
   <string name="master_clear_desc_also_erases_external">
-    <li>Hudba</li>"
+    <li>Music</li>"
 "
-    <li>Fotky</li>"
+    <li>Photos</li>"
 "
-    <li>Jiná data uživatele</li>
+    <li>Other user data</li>
   </string>
-  <string name="master_clear_desc_erase_external_storage"> musí být vymazána.<b>SD karta</b> musí být vymazána.</string>
+  <string name="master_clear_desc_erase_external_storage"> musí být vymazána.<b>SD card</b> needs to be erased.</string>
   <string name="erase_external_storage">Smazat SD kartu</string>
   <string name="erase_external_storage_description">Smazat všechna data na SD kartě, například hudbu a fotografie.</string>
   <string name="master_clear_button_text">Resetovat telefon</string>
@@ -1726,17 +1726,17 @@ Nastavení telefonu může vyžadovat značnou aktivitu v síti."</string>
   <string name="accessibility_screen_magnification_title">Gesta zvětšení</string>
   <string name="accessibility_screen_magnification_summary">"
 
-Můžete také dočasně zvětšit, co je pod prstem troj-klepnutím a podržením. V tomto zvětšeném stavu můžete přetáhnout prst, aby prozkoumal různé části obrazovky. Zvedněte prst na návrat do původního stavu.
-
-Poznámka: Troj-klepnutí pro zvětšení funguje všude kromě klávesnice a navigačního panelu."<li>
-      <ul>"Pan: Přetáhněte dva nebo více prstů po obrazovce.
-"<li>Nastavte úroveň zvětšení: Pinch dva nebo více prstů k sobě nebo roztáhněte je od sebe.</li>
-      </ul>
-    </li>"
-
 Můžete také dočasně zvětšit, co je pod prstem triple-klepnutím a podržením. V tomto zvětšeném stavu, můžete přetáhnout prst, aby prozkoumala různé části obrazovky. Zvedněte prst na návrat do svého původního stavu.
 
-Poznámka: Triple-tap pro zvětšení funguje všude, kromě klávesnice a navigační panel."</string>
+Poznámka: Triple-tap pro zvětšení funguje všude, kromě klávesnice a navigační panel."<ul>
+      <li>"Pan: Drag two or more fingers across the screen.
+"<li>Adjust zoom level: Pinch two or more fingers together or spread them apart.</li>
+      </li>
+    </ul>"
+
+You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
+
+Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar."</string>
   <string name="accessibility_global_gesture_preference_title">Zkratka dostupnosti</string>
   <string name="accessibility_global_gesture_preference_summary_on">Zap</string>
   <string name="accessibility_global_gesture_preference_summary_off">Vyp</string>
@@ -2475,25 +2475,25 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="summary_nightmode_value">%1$s</string>
   <string name="inadvertmode_title">Zabránění nechtěnému spuštění</string>
   <string name="inadvertmode_msg">Zabránění nechtěnému spuštění funkcí telefonu pokud se nachází v kapse</string>
-  <string name="sim_settings_guide_editname_title">Dual card setup wizard</string>
-  <string name="sim_settings_guide_voicesms_title">Calling and Messaging</string>
-  <string name="sim_settings_guide_data_title">Internet and traffic protection</string>
-  <string name="sim_settings_guide_datasave_title">Traffic protection</string>
-  <string name="sim_settings_guide_video_title">Video call</string>
-  <string name="sim_settings_guide_fastmode_title">Fast Mode Wizard</string>
-  <string name="sim_settings_data_usage_title">Traffic packages</string>
-  <string name="sim_settings_data_usage_hint_text">Input traffic package</string>
-  <string name="sim_settings_data_usage_mb_size">MB/Month</string>
+  <string name="sim_settings_guide_editname_title">Průvodce nastavením Dual Sim</string>
+  <string name="sim_settings_guide_voicesms_title">Volání a zprávy</string>
+  <string name="sim_settings_guide_data_title">Internet a ochrana přenosů</string>
+  <string name="sim_settings_guide_datasave_title">Ochrana přenosů</string>
+  <string name="sim_settings_guide_video_title">Video hovor</string>
+  <string name="sim_settings_guide_fastmode_title">Režim rychlého nastavení</string>
+  <string name="sim_settings_data_usage_title">Balíky přenosů</string>
+  <string name="sim_settings_data_usage_hint_text">Vložte množství dat</string>
+  <string name="sim_settings_data_usage_mb_size">MB/Měsíc</string>
   <string name="sim_settings_data_usage_dont_care">
     <u>I do not know, texting later</u>
   </string>
-  <string name="sim_settings_data_switch">Using data traffic</string>
-  <string name="sim_settings_guide_editname_summary">Change name to distinguish dual card</string>
-  <string name="sim_settings_guide_voicesms_summary">Select frequently used phone card as the default call and send message</string>
-  <string name="sim_settings_guide_data_summary">Select the default data card, and recommended to set the phone card traffic packages. when it reaches the warning value, they will remind you to avoid the extra cost</string>
-  <string name="sim_settings_guide_datasave_summary">If you have not yet handle flow of packages, the proposed closure of the data traffic. Otherwise, the excess data traffic, operators may charge an additional fee</string>
-  <string name="sim_settings_guide_video_summary">Choose to support 3G business phone card phone card as the default video phone</string>
-  <string name="sim_settings_guide_fastmode_summary">Experience the fast dialing and sending message</string>
+  <string name="sim_settings_data_switch">Použití datového provozu</string>
+  <string name="sim_settings_guide_editname_summary">Změna názvu pro rozlišovat karet</string>
+  <string name="sim_settings_guide_voicesms_summary">Vyberte často používanou telefonní kartu jako výchozí pro volání a zprávy</string>
+  <string name="sim_settings_guide_data_summary">Vyberte výchozí datovou kartu a doporučené nastavení balíčků přenosu telefonní karty. Když dosáhne hodnoty varování, bude vám připomenuto, aby se zabránilo dodatečným nákladům</string>
+  <string name="sim_settings_guide_datasave_summary">Pokud jste ještě nenastavili množství dat, navrhujeme uzavření datového provozu. V opačném případě, za překročení datového provozu operátoři mohou účtovat dodatečný poplatek</string>
+  <string name="sim_settings_guide_video_summary">Vyberte, zda chcete 3G kartu používat jako výchozí pro video volání</string>
+  <string name="sim_settings_guide_fastmode_summary">Zkuste rychlé vytáčení a posílání zpráv</string>
   <string name="halo_title">halo</string>
   <string name="halo_summary_on">open halo</string>
   <string name="halo_summary_off">close halo</string>

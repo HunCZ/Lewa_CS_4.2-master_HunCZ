@@ -135,7 +135,7 @@
   </string-array>
   <string-array name="wifi_status">
     <item/>
-    <item>Vyhledávám…</item>
+    <item>Vyhledávání…</item>
     <item>Připojuji…</item>
     <item>Ověřuji…</item>
     <item>Získávám IP adresu…</item>
@@ -149,7 +149,7 @@
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item/>
-    <item>Vyhľadávam…</item>
+    <item>Vyhledávání…</item>
     <item>Připojuji ku %1$s…</item>
     <item>Ověřuji s %1$s…</item>
     <item>Získávám IP adresu od %1$s…</item>
