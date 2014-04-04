@@ -1326,19 +1326,19 @@ Nastavení telefonu může vyžadovat značnou aktivitu v síti."</string>
   <string name="restore_default_apn_completed">Obnovení výchozích nastavení názvu přístupového bodu (APN) bylo dokončeno.</string>
   <string name="master_clear_title">Obnovení továrních dat</string>
   <string name="master_clear_summary">Vymaže všechna data v telefonu</string>
-  <string name="master_clear_desc">"This will erase all data from your phone's "<b>internal storage</b>", including:
+  <string name="master_clear_desc">"To vymaže všechna data z vašeho telefonu "<b>interní úložiště</b>", včetně:
 
-"<li>Your Google account</li>"
-"<li>System and app data and settings</li>"
-"<li>Downloaded apps</li>
+"<li>Váš účet Google</li>"
+"<li>Systémové aplikace, data a nastavení</li>"
+"<li>Stažené applikace</li>
   </string>
   <string name="master_clear_accounts">Aktuálně jste přihlášeni do následujících účtů:</string>
   <string name="master_clear_desc_also_erases_external">
-    <li>Music</li>"
+    <li>Hudba</li>"
 "
-    <li>Photos</li>"
+    <li>Fotografie</li>"
 "
-    <li>Other user data</li>
+    <li>Další uživatelská data</li>
   </string>
   <string name="master_clear_desc_erase_external_storage"> musí být vymazána.<b>SD card</b> needs to be erased.</string>
   <string name="erase_external_storage">Smazat SD kartu</string>
@@ -1729,14 +1729,14 @@ Nastavení telefonu může vyžadovat značnou aktivitu v síti."</string>
 Můžete také dočasně zvětšit, co je pod prstem triple-klepnutím a podržením. V tomto zvětšeném stavu, můžete přetáhnout prst, aby prozkoumala různé části obrazovky. Zvedněte prst na návrat do svého původního stavu.
 
 Poznámka: Triple-tap pro zvětšení funguje všude, kromě klávesnice a navigační panel."<ul>
-      <li>"Pan: Drag two or more fingers across the screen.
-"<li>Adjust zoom level: Pinch two or more fingers together or spread them apart.</li>
+      <li>"Pan: Přetáhněte dva nebo více prstů po obrazovce.
+"<li>Nastavte úroveň zvětšení: Pinch dva nebo více prstů k sobě nebo roztáhněte je od sebe.</li>
       </li>
     </ul>"
 
-You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
+Můžete také dočasně zvětšit, co je pod prstem troj-klepnutím a podržením. V tomto zvětšeném stavu můžete přetáhnout prst, aby šlo prozkoumat různé části obrazovky. Zvedněte prst a vrátíte se do předchozího stavu.
 
-Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar."</string>
+Poznámka: Triple-tap pro zvětšení funguje všude, kromě klávesnice a navigačního panelu."</string>
   <string name="accessibility_global_gesture_preference_title">Zkratka dostupnosti</string>
   <string name="accessibility_global_gesture_preference_summary_on">Zap</string>
   <string name="accessibility_global_gesture_preference_summary_off">Vyp</string>
