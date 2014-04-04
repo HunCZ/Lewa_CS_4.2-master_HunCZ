@@ -1726,17 +1726,17 @@ Nastavení telefonu může vyžadovat značnou aktivitu v síti."</string>
   <string name="accessibility_screen_magnification_title">Gesta zvětšení</string>
   <string name="accessibility_screen_magnification_summary">"
 
-Můžete také dočasně zvětšit, co je pod prstem triple-klepnutím a podržením. V tomto zvětšeném stavu, můžete přetáhnout prst, aby prozkoumala různé části obrazovky. Zvedněte prst na návrat do svého původního stavu.
+Můžete také dočasně zvětšit, co je pod prstem troj-klepnutím a podržením. V tomto zvětšeném stavu můžete přetáhnout prst, aby jste prozkoumal různé části obrazovky. Zvedněte prst pro návrat do původního stavu.
 
-Poznámka: Triple-tap pro zvětšení funguje všude, kromě klávesnice a navigační panel."<ul>
-      <li>"Pan: Přetáhněte dva nebo více prstů po obrazovce.
-"<li>Nastavte úroveň zvětšení: Pinch dva nebo více prstů k sobě nebo roztáhněte je od sebe.</li>
+Poznámka: Troj-klep pro zvětšení funguje všude kromě klávesnice a navigačního panelu."<ul>
+      <li>"Posun: Přetáhněte dva nebo více prstů po obrazovce.
+"<li>Nastavit úroveň zvětšení: Stáhněte dva nebo více prstů k sobě nebo je roztáhněte od sebe.</li>
       </li>
     </ul>"
 
-Můžete také dočasně zvětšit, co je pod prstem troj-klepnutím a podržením. V tomto zvětšeném stavu můžete přetáhnout prst, aby šlo prozkoumat různé části obrazovky. Zvedněte prst a vrátíte se do předchozího stavu.
+Můžete také dočasně zvětšit, co je pod prstem, troj-klepnutím a podržením. V tomto zvětšeném stavu můžete táhnout prstem, aby šlo prozkoumat různé části obrazovky. Zvedněte prst a vrátíte se do předchozího stavu.
 
-Poznámka: Triple-tap pro zvětšení funguje všude, kromě klávesnice a navigačního panelu."</string>
+Poznámka: Troj-klep pro zvětšení funguje všude kromě klávesnice a navigačního panelu."</string>
   <string name="accessibility_global_gesture_preference_title">Zkratka dostupnosti</string>
   <string name="accessibility_global_gesture_preference_summary_on">Zap</string>
   <string name="accessibility_global_gesture_preference_summary_off">Vyp</string>
