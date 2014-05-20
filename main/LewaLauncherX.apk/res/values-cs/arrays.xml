@@ -1,41 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string-array name="desktop_transition_effect_entries">
-        <item>Standardní</item>
-        <item>Standardní (bez překročení)</item>
-        <item>Tablet</item>
-        <item>Zvětšování</item>
-        <item>Zmenšování</item>
-        <item>Otáčení nahoru</item>
-        <item>Otáčení dolu</item>
-        <item>Přetočení </item>
-        <item>Převrácení</item>	
-        <item>Uvnitř kostky</item>
-        <item>Vně kostky</item>
-        <item>Štos</item>
-        <item>Harmonika</item>
-        <item>Cylindr uvnitř</item>
-        <item>Cylinder vně</item>
-        <item>Kolotoč vlevo</item>		
-        <item>Kolotoč vpravo</item>		
-    </string-array>
-    <string-array name="desktop_transition_effect_values">
-        <item>Standard</item>
-        <item>NoOverShoot</item>
-        <item>Tablet</item>
-        <item>ZoomIn</item>
-        <item>ZoomOut</item>
-        <item>RotateUp</item>
-        <item>RotateDown</item>
-        <item>Spin</item>
-        <item>Flip</item>
-        <item>CubeIn</item>
-        <item>CubeOut</item>
-        <item>Stack</item>
-        <item>Accordion</item>
-        <item>CylinderIn</item>
-        <item>CylinderOut</item>
-        <item>CarouselLeft</item>
-        <item>CarouselRight</item>
-    </string-array>
+<?xml version="1.0"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>-->
+<resources>
+  <string-array name="desktop_transition_effect_entries">
+    <item>Standardní</item>
+    <item>Standardní (bez překročení)</item>
+    <item>Tablet</item>
+    <item>Zvětšování</item>
+    <item>Zmenšování</item>
+    <item>Otáčení nahoru</item>
+    <item>Otáčení dolu</item>
+    <item>Přetočení</item>
+    <item>Převrácení</item>
+    <item>Uvnitř kostky</item>
+    <item>Vně kostky</item>
+    <item>Štos</item>
+    <item>Harmonika</item>
+    <item>Cylindr uvnitř</item>
+    <item>Cylinder vně</item>
+  </string-array>
+  <string-array name="desktop_transition_effect_values">
+    <item>Standard</item>
+    <item>OverShoot</item>
+    <item>ZoomIn</item>
+    <item>ZoomOut</item>
+    <item>RotateUp</item>
+    <item>RotateDown</item>
+    <item>Spin</item>
+    <item>Flip</item>
+    <item>CubeIn</item>
+    <item>CubeOut</item>
+    <item>Stack</item>
+    <item>Accordion</item>
+    <item>CylinderIn</item>
+    <item>CylinderOut</item>
+    <item>CarouselLeft</item>
+  </string-array>
+  <string-array name="large_screen_layout">
+    <item>4 * 4</item>
+    <item>4 * 5</item>
+  </string-array>
+  <string-array name="large_screen_layout_value">
+    <item>4|4</item>
+    <item>4|5</item>
+  </string-array>
+  <string-array name="ex_large_screen_layout">
+    <item>4 * 4</item>
+    <item>4 * 5</item>
+    <item>5 * 5</item>
+  </string-array>
+  <string-array name="ex_large_screen_layout_value">
+    <item>4|4</item>
+    <item>4|5</item>
+    <item>5|5</item>
+  </string-array>
+  <array name="wallpapers"/>
 </resources>

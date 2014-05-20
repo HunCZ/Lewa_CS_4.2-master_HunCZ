@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>-->
 <resources>
-    <plurals name="phone_goggles_countdown">
-        <item quantity="other">%d sekund zbývá</item>
-        <item quantity="one">%d sekunda zbývá</item>
-    </plurals>
+  <plurals name="phone_goggles_countdown">
+    <item quantity="other">%d sekund zbývá</item>
+    <item quantity="one">%d sekunda zbývá</item>
+  </plurals>
 </resources>

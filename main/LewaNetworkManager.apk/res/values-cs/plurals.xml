@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>-->
 <resources>
-    <plurals name="day">
-        <item quantity="other">%d dnů</item>
-        <item quantity="one">1 den</item>
-    </plurals>
-    <plurals name="firewall_list_title">
-        <item quantity="other">%d aplikací používá Internet</item>
-        <item quantity="one">1 aplikace používá Internet</item>
-    </plurals>
+  <plurals name="day">
+    <item quantity="other">%d dnů</item>
+    <item quantity="one">1 den</item>
+  </plurals>
+  <plurals name="firewall_list_title">
+    <item quantity="other">%d aplikací používá Internet</item>
+    <item quantity="one">1 aplikace používá Internet</item>
+  </plurals>
 </resources>
