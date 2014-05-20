@@ -13,8 +13,8 @@
   <string name="create_playlist">vytvořit seznam stop</string>
   <string name="top_list">seznam nejlepších</string>
   <string name="text_song_num">%1$d písní</string>
-  <string name="edit_playlist_success_toast_text">%1$d písničky přidané do %2$ s</string>
-  <string name="remove_playlistsong_success_toast_text">%1$d písně odstraněn z %2$ s</string>
+  <string name="edit_playlist_success_toast_text">%1$d písničky přidané do %2$s</string>
+  <string name="remove_playlistsong_success_toast_text">%1$d písní odstraněno z %2$s</string>
   <string name="check_song_number">%1$d zvolené</string>
   <string name="btn_show_all_albums_text">Zobrazit celé album</string>
   <string name="title_cover_dialog">obal playlistu</string>
@@ -280,7 +280,7 @@
   <string name="dialog_negative">Ne</string>
   <string name="select_folder">Vyberte zdroj hudby</string>
   <string name="no_folder">Vyberte prosím alespoň 1 složku</string>
-  <string name="nosd">SD karta odpojen nebo není k dispozici</string>
+  <string name="nosd">SD karta odpojena nebo není k dispozici</string>
   <string name="no_folders">Žádné složky</string>
   <string name="title_dialog_xml">Odstranit</string>
   <string name="no_songs">Žádné písně</string>
@@ -304,5 +304,11 @@
   <string name="down_task_num">%1$d úlohy stahování</string>
   <string name="open_download">Klepnutím sem otevřete seznam stahování</string>
   <string name="download_done">Stažení je kompletní</string>
+  <string name="downloading">downloading</string>
+  <string name="download_paused">paused</string>
   <string name="add_to_download">%s přidat ke stažení</string>
+  <string name="enter_name">Vložte jméno umělce nebo písně</string>
+  <string name="clear_histroy">Vymazat historii</string>
+  <string name="no_result">Hudba nenalezena</string>
+  <string name="song_num_add_to_playlist">přidat %1$d písní do playlistu</string>
 </resources>

@@ -537,7 +537,7 @@
 <string name="remove_speed_dial">Odstranit</string>
 <string name="remove_sd_confirm_1">Opravdu chcete odebrat %1$s (%2$s) z rychlého vytáčení %3$s?</string>
 <string name="remove_sd_confirm_2">Opravdu chcete odebrat %1$s z rychlého vytáčení %2$s?</string>
-<string name="delete_error">Smazání kontaku SIM selhalo.</string>
+<string name="delete_error">Smazání kontaktu SIM selhalo.</string>
 <string name="emergencycall">Tísňové volání</string>
 <string name="imei_invalid">Neplatné</string>
 <string name="call_log_filter_all_resources">Všechny zdroje</string>
@@ -643,10 +643,10 @@
 <string name="notifier_multichoice_process_report" formatted="false">"Dokončeno: %dNeodokončeno: %d"</string>
 <string name="notifier_failure_by_sim_full" formatted="false">"Selhalo protože SIM je plná.Dokončeno: %dNeodokončeno: %d"</string>
 <string name="notifier_failure_sim_notready" formatted="false">"Selhalo protože SIM není připravená.Dokončeno: %dNeodokončeno: %d"</string>
-<string name="notifier_cancel_delete_title">Mazání kontaku(ů) zrušeno</string>
-<string name="notifier_fail_delete_title">Mazání kontaku(ů) selhalo</string>
-<string name="notifier_cancel_copy_title">Kopírování kontaku(ů) zrušeno</string>
-<string name="notifier_fail_copy_title">Kopírování kontaku(ů) selhalo</string>
+<string name="notifier_cancel_delete_title">Mazání kontaktu(ů) zrušeno</string>
+<string name="notifier_fail_delete_title">Mazání kontaktu(ů) selhalo</string>
+<string name="notifier_cancel_copy_title">Kopírování kontaktu(ů) zrušeno</string>
+<string name="notifier_fail_copy_title">Kopírování kontaktu(ů) selhalo</string>
 <string name="notifier_progress__delete_will_start_message">Kontakt(y) budou brzy odstraněny.</string>
 <string name="notifier_progress_delete_message" formatted="false">Mazání %s/%s: %s</string>
 <string name="notifier_progress_delete_description">Mazání %s</string>
@@ -1229,7 +1229,7 @@
 <string name="prefs_contact_management_title">Správa kontaktů</string>
 <string name="contacts_account_settings_label">Nastavení účtu</string>
 <string name="contacts_show_option_label">Zobrazit možnosti</string>
-<string name="title_contacts_settings">Nastavení kontaků</string>
+<string name="title_contacts_settings">Nastavení kontaktů</string>
 <string name="title_stick_photo">Upravit foto</string>
 <string name="prompt_no_contacts_pepole">Nemáte žádný kontakt</string>
 <string name="login_lewa_account">Připojit LeWa účet</string>

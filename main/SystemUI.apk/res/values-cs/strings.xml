@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>-->
 <resources>
-  <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
+  <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.LewaPhoneStatusBar</string>
   <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
   <string name="status_bar_date_formatter">"%2$s
 %1$s"</string>
@@ -49,7 +49,7 @@
   <string name="data_usage_disabled_dialog_4g_title">Datové přenosy 4G jsou zakázány</string>
   <string name="data_usage_disabled_dialog_mobile_title">Mobilní data jsou zakázána</string>
   <string name="data_usage_disabled_dialog_title">Přenos dat vypnut</string>
-  <string name="data_usage_disabled_dialog">Dosáhli jste stanoveného limitu využití dat.Chcete-li datové připojení znovu zapnout, operátor vám může účtovat poplatky.</string>
+  <string name="data_usage_disabled_dialog">Dosáhli jste stanoveného limitu využití dat. Chcete-li datové připojení znovu zapnout, operátor vám může účtovat poplatky.</string>
   <string name="data_usage_disabled_dialog_enable">Znovu povolit data</string>
   <string name="status_bar_clear_all_button">Vymazat</string>
   <string name="status_bar_latest_events_title">Oznámení</string>
@@ -61,7 +61,7 @@
   <string name="screenshot_saved_text">Snímek obrazovky zobrazíte dotykem.</string>
   <string name="screenshot_failed_title">Snímek obrazovky se nepodařilo zachytit.</string>
   <string name="screenshot_failed_text">Snímek obrazovky se nepodařilo uložit. Je možné, že je externí úložiště právě používáno.</string>
-  <string name="app_label">UI systému</string>
+  <string name="app_label">System UI</string>
   <string name="status_bar_do_not_disturb_button">Nerušit</string>
   <string name="status_bar_please_disturb_button">Zobrazit upozornění</string>
   <string name="status_bar_recent_remove_item_title">Odebrat ze seznamu</string>
@@ -86,7 +86,7 @@
   <string name="usb_accessory_permission_prompt">Povolit aplikaci %1$s přístup k perifernímu zařízení USB?</string>
   <string name="usb_device_confirm_prompt">Chcete při připojení tohoto zařízení USB otevřít aplikaci %1$s?</string>
   <string name="usb_accessory_confirm_prompt">Chcete při připojení tohoto periferního zařízení USB otevřít aplikaci %1$s?</string>
-  <string name="usb_accessory_uri_prompt">Žádná nainstalovaná aplikace s tímto zařízením USB nepracuje. Info. najdete na %1$s</string>
+  <string name="usb_accessory_uri_prompt">Žádná nainstalovaná aplikace s tímto zařízením USB nepracuje. Info najdete na %1$s</string>
   <string name="title_usb_accessory">Periferní zařízení USB</string>
   <string name="label_view">Zobrazit</string>
   <string name="always_use_device">Pro toto zařízení USB použít jako výchozí</string>
@@ -220,7 +220,7 @@
   <string name="poputip_title2">Ban</string>
   <string name="poputip_title3">Veškerá oznámená vnutit této aplikaci</string>
   <string name="poputip_title4">Zobraz detaily aplikace</string>
-  <string name="poputip_toast">Ban % zpráva</string>
+  <string name="poputip_toast">Ban %s zpráva</string>
   <string name="notifilter_setting">Nastavení oznámení</string>
   <string name="notifilter_activity_title">Nastavení oznámení</string>
   <string name="power_battery_fulltitle">Nabíjení baterie</string>
@@ -235,10 +235,10 @@
   <string name="notifilter_allow">Odstranit z černé listiny</string>
   <string name="notifilter_denie">Odepřít</string>
   <string name="notifilter_item_activity">Správce oznámení</string>
-  <string name="notifilter_cloudtip">"Inteligentní informační reklamy v oznamovací liště </string>
+  <string name="notifilter_cloudtip">Inteligentní informační reklamy v oznamovací liště</string>
   <string name="notifilter_cloudloading">Načítání cloudu...</string>
   <string name="notifilter_cloudlasttime">Poslední čas stáhnutí:</string>
-  <string name="recent_meminfo">%1$dMB/%2$dMB</string>
+  <string name="recent_meminfo">%1$dM/%2$dM</string>
   <string name="accessibility_halo">Vytvořit vlastní oznámení</string>
   <string name="halo_dismiss">Zrušte oznámení</string>
   <string name="halo_hide">Skrýt</string>
@@ -266,4 +266,8 @@
   <string name="reboot_message">Restartovat pro větší efektivitu?</string>
   <string name="shake_clean_title">Zatřepáním vyčistit notifikace</string>
   <string name="shake_clean_summary">Zatřepáním telefonu rychle vyčistit oznámení</string>
+  <string name="lewa_status_bar_date_formatter">"%2$s
+%1$s %3$s"</string>
+  <string name="twenty_four_hour_time_format">H:mm</string>
+  <string name="twelve_hour_time_format">h:mm a</string>
 </resources>

@@ -13,8 +13,8 @@
         <item quantity="one">1 nalezený</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">%d nálezených</item>
-        <item quantity="one">1 nálezený</item>
+        <item quantity="other">%d nalezených</item>
+        <item quantity="one">1 nalezený</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">sloučených ze %0$d zdrojů</item>
@@ -37,7 +37,7 @@
         <item quantity="one">Odkazová zpráva</item>
     </plurals>
     <plurals name="searchFoundCalllogs">
-        <item quantity="other">%d záznamov hovorů</item>
+        <item quantity="other">%d záznamů hovorů</item>
         <item quantity="one">1 záznam hovoru</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
@@ -57,8 +57,8 @@
         <item quantity="other">%1$s osob</item>
     </plurals>
     <plurals name="read_report_toast_msg">
-        <item quantity="other">odosílám %d výpisů o přečtení</item>
-        <item quantity="one">odosílám %d výpis o přečtení</item>
+        <item quantity="other">odesílám %d výpisů o přečtení</item>
+        <item quantity="one">odesílám %d výpis o přečtení</item>
     </plurals>
     <plurals name="message_view_selected_message_count">
         <item quantity="other">%d označených</item>

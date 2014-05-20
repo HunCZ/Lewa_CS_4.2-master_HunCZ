@@ -534,12 +534,22 @@
     <item>9000</item>
   </string-array>
   <string-array name="led_color_values">
-    <item>blue</item>
-    <item>green</item>
+    <item>modrá</item>
+    <item>červená</item>
+    <item>žlutá</item>
+    <item>zepouzeá</item>
+    <item>azurová</item>
+    <item>bílá</item>
+    <item>\#FFAA00AA</item>
   </string-array>
   <string-array name="led_color_entries">
     <item>Modrá</item>
     <item>Červená</item>
+    <item>Žlutá</item>
+    <item>Zepouzeá</item>
+    <item>Azurová</item>
+    <item>Bílá</item>
+    <item>Fialová</item>
   </string-array>
   <string-array name="gemini_sim_info_number_display_format_entries">
     <item>První 4 číslice</item>
@@ -563,8 +573,8 @@
   </string-array>
   <string-array name="gsm_umts_network_preferences_choices">
     <item>GSM/WCDMA (auto.mód)</item>
-    <item>len WCDMA</item>
-    <item>len GSM</item>
+    <item>pouze WCDMA</item>
+    <item>pouze GSM</item>
   </string-array>
   <string-array name="gsm_umts_network_preferences_values">
     <item>0</item>
@@ -660,8 +670,8 @@
   </string-array>
   <string-array name="wifi_hotspot_disable_policy_entries">
     <item>Vždy</item>
-    <item>Vypni pokud se nepoužívá 5 min</item>
-    <item>Vypni pokud se nepoužívá 10 min</item>
+    <item>Vypni, pokud se nepoužívá 5 min</item>
+    <item>Vypni, pokud se nepoužívá 10 min</item>
   </string-array>
   <string-array name="wifi_hotspot_disable_policy_values">
     <item>0</item>
