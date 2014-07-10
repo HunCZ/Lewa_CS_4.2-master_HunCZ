@@ -10,9 +10,9 @@
   <string name="label_complete">Konec</string>
   <string name="send">Zaslat příkazy</string>
   <string name="unlock">Odemknout</string>
-  <string name="antitheft">Phone anti-theft</string>
+  <string name="antitheft">Anti-zloděj</string>
   <string name="start_instantly">Otevřít nyní</string>
-  <string name="antiseft_settings">Anti-theft nastavení</string>
+  <string name="antiseft_settings">Nastavení A-Z</string>
   <string name="iam">Já jsem %s,</string>
   <string name="invalid_phone_number">Chybné telefonní číslo</string>
   <string name="invalid_user_info">Vyplňte informace o uživateli</string>
@@ -72,13 +72,13 @@
   <string name="dialog_security_number_change">
     <u>Change</u>
   </string>
-  <string name="dialog_close_title">Zavřít anti-theft</string>
-  <string name="dialog_close_message">Systém uzavře anti-theft</string>
+  <string name="dialog_close_title">Zavřít Anti-zloděj</string>
+  <string name="dialog_close_message">Systém uzavře Anti-zloděj</string>
   <string name="dialog_password_forget_title">Zapomenuté heslo</string>
   <string name="dialog_password_forget_text1">Váš telefon zašle heslo na bezpečný telenon pomocí zprávy</string>
   <string name="dialog_password_forget_text2">Vaše heslo bylo zasláno na bezpečný telefon.</string>
   <string name="dialog_password_forget_text3">Vaše heslo nebylo zasláno na bezpečný telefon</string>
-  <string name="dialog_remember_commands_title">Záloha anti-theft příkazů</string>
+  <string name="dialog_remember_commands_title">Záloha Anti-zloděj příkazů</string>
   <string name="dialog_remember_commands_text1">Systém zašle anti-theft příkazy na bezpečný telefon pomocí zprávy.</string>
   <string name="dialog_remember_commands_text2">Vaše heslo bylo odesláno na bezpečný telefon.</string>
   <string name="dialog_remember_commands_text3">Odeslání příkazu selhalo</string>
@@ -87,7 +87,7 @@
   <string name="password_forget">
     <u>Forget password</u>
   </string>
-  <string name="password_old">Staré heslo</string>
+  <string name="password_old">Zapomenout heslo</string>
   <string name="password_new">Nové heslo</string>
   <string name="password_confirm">Potvrdit nové heslo</string>
   <string name="password_confirm_hint">Znovu zadat nové heslo</string>
@@ -124,7 +124,7 @@
   <string name="command_not_none">Příkaz nemůže být prázdný</string>
   <string name="prompt_user_info_hint">zadejte své jméno</string>
   <string name="prompt_close_guide">Opravdu chcete ukončit průvodce?</string>
-  <string name="pref_antitheft_on_title">zapnout ochranu proti zloděje</string>
+  <string name="pref_antitheft_on_title">zapnout ochranu Anti-zloděje</string>
   <string name="pref_antitheft_on">pref_antitheft_on</string>
   <string name="at">pozice je</string>
   <string name="password_changed＿success">Heslo bylo změněno</string>
