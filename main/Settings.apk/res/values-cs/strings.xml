@@ -2527,11 +2527,15 @@ Každý uživatel může přijímat oprávnění aktualizovat app jménem všech
   <string name="sensor_smart_call">Inteligentní volání</string>
   <string name="sensor_smart_call_summary">V kontaktních údajích nebo SMS při přiblížení k uchu automaticky zavolat</string>
   <string name="sensor_shake_degree_gentle">Jemně</string>
-  <string name="sensor_shake_degree_normal">Normál</string>
+  <string name="sensor_shake_degree_normal">Normálně</string>
   <string name="sensor_shake_degree_strength">Silně</string>
   <string name="shake_degree_title">Síla zatřepání</string>
   <string name="shake_degree_summary">Nastavení citlivosti kýváním telefonu</string>
   <string name="sensor_shake_ok">Ok</string>
   <string name="sensor_shake_cancel">Zrušit</string>
   <string name="activity_rounded_corner_title">Zobrazit zaoblené rohy obrazovek</string>
+  <string name="global_action_bug_report">Hlášení chyb</string>
+  <string name="bugreport_title">Pořídit hlášení chyb</string>
+  <string name="bugreport_message">Budou se shromažďovat informace o aktuálním stavu zařízení a posílat jako e-mailové zprávy. Bude trvat trochu času od spuštění hlášení o chybě k odeslání; prosím, buďte trpěliví.</string>
+  <string name="kg_sim_unlock_progress_dialog_message">Odemykání SIM karty…</string>
 </resources>
