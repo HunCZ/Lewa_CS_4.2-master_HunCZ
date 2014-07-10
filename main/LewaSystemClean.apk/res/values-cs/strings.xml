@@ -22,7 +22,7 @@
   <string name="install_location_auto">Automaticky vybere systém</string>
   <string name="clear_data_title">Odstranit smetí</string>
   <string name="calculate_now">Detekování</string>
-  <string name="space_available">dostupný prostor</string>
+  <string name="space_available">dostupné místo:</string>
   <string name="space_used">použité místo:</string>
   <string name="category_application">aplikace</string>
   <string name="category_others">ostatní</string>
@@ -45,22 +45,22 @@
   <string name="internalclean_title">Vyčištění systémového místa</string>
   <string name="memory_others">Ostatní</string>
   <string name="calculate_size">Výpočet místa...</string>
-  <string name="clean_size">Čistím...</string>
+  <string name="clean_size">Čištění...</string>
   <string name="calculate_size_result">K vyčištění máte zvoleno aplikací: %s</string>
-  <string name="calculate_size_unchecked">Stále %s položek na čištění</string>
+  <string name="calculate_size_unchecked">Stále %s položek k vyčištění</string>
   <string name="clean_all_storage">Vyčistit vše</string>
   <string name="clean_add_msg">Čištění</string>
   <string name="clean_add_title">Čištění</string>
   <string name="clean_remain_summary">Zbývá vyčistit</string>
   <string name="clean_calculate_empty_msg">Nenalezeny žádné soubory po čištění</string>
   <string name="clean_app_cache_summary">Cache:</string>
-  <string name="clean_clear_complete_title">Čištění je hotové</string>
+  <string name="clean_clear_complete_title">Čištění dokončeno</string>
   <string name="clean_clear_complete_summary2">prostor</string>
   <string name="clean_calculate_size_title">Aktuální volné místo</string>
   <string name="size_used">Využito</string>
   <string name="size_available">Dostupné</string>
   <string name="calculate_size_complete">Celkem nalezeno prostoru k vyčištění:</string>
-  <string name="calculate_size_incomplete">Ještě zbývá vyčistit místo</string>
+  <string name="calculate_size_incomplete">Ještě zbývá vyčistit</string>
   <string name="calculate_size_stop">Výpočet byl přerušen</string>
   <string name="calculate_size_stop_result">Zjištěno %s volného místa</string>
   <string name="calculate_size_error">Promiňte, špatná velikost</string>
@@ -82,7 +82,7 @@
   <string name="clean_empty_folder_summary">Počítadlo složek</string>
   <string name="clean_storage_available_size">%s volného místa</string>
   <string name="clean_list_top_not_clean_summary">Soubory nebyly vyčištěny</string>
-  <string name="clean_data_cleaning_summary">Čistím...</string>
+  <string name="clean_data_cleaning_summary">Čištění...</string>
   <string name="clean_btn_cleanup_part_summary">Čištění</string>
   <string name="clean_btn_cleanup_incompelte">Pokračovat v čištění</string>
   <string name="clean_btn_cleanup_incompelte_ignore">Ukončit čištění</string>
@@ -93,4 +93,5 @@
   <string name="clean_calculate_complete_result">%1$s volného místa. Po čištění se očekává %2$s</string>
   <string name="storage_install_app_sdcard_summary">(Nepodporují některé aplikace)</string>
   <string name="clean_no_item">Vyberte nejméně jednu položku, prosím</string>
+  <string name="clean_all">Hledání smetí</string>
 </resources>

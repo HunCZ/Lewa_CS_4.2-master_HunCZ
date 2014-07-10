@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="city_list">Seznam měst</string>
+    <string name="AQI">AQI</string>
+    <string name="unknown">neznámé</string>
+    <string name="entercity">Zadajte název města</string>
+    <string name="auto_location">Lokalizovat</string>
+    <string name="no_net">Nedostupná síť</string>
+    <string name="location_wait">Hledám, prosím čekejte...</string>
+    <string name="tomorrow">Zítra</string>
+    <string name="lunar">lunar</string>
+    <string name="weather_no_data">Žádná data</string>
+    <string name="weather_unknown">neznámý</string>
+    <string name="no_weather_data">Nedostupné data</string>
+    <string name="v5_nolocation">Žádná oblast</string>
+    <string name="v5_add_city">Stiskni a nastav</string>
+    <string name="temporary">Dočasně</string>
     <string name="app_name">Počasí</string>
     <string name="cancel">zrušit</string>
     <string name="day_string">den</string>
@@ -15,8 +30,6 @@
     <string name="tianhou">násled.dny</string>
     <string name="nianhou">před.roky</string>
     <string name="zhou">týden</string>
-    <string name="weather_no_data">Žádná data</string>
-    <string name="unknown">neznámé</string>
     <string name="mon">Pon.</string>
     <string name="tue">Út.</string>
     <string name="wed">Stř.</string>
@@ -32,7 +45,6 @@
     <string name="saturday">Sobota</string>
     <string name="sunday">Neděle</string>
     <string name="function">Funkce</string>
-    <string name="city_list">Seznam měst</string>
     <string name="add_city">Přidat město</string>
     <string name="choose_provience">Zvolte región</string>
     <string name="choose_city">Vyberte město</string>
@@ -40,37 +52,26 @@
     <string name="publish_time">Zveřejněno</string>
     <string name="shidu">vlhkost</string>
     <string name="nodata">No data</string>
-    <string name="temporary">Dočasně</string>
-    <string name="tomorrow">Zítra</string>
     <string name="sunshine">Pěkně</string>
     <string name="del_success">úspěšně smazáno</string>
     <string name="del_fail">smazání selhalo</string>
-    <string name="auto_location">Lokalizovat</string>
     <string name="no_location">Žiadné místo</string>
     <string name="not_set">Nenastaveno</string>
-    <string name="no_net">Nedostupná síť</string>
-    <string name="no_weather_data">Nedostupné data</string>
     <string name="pls_check_network_status_string">Prosím zkontrolujte síť</string>
     <string name="set">Nastavení</string>
     <string name="city_set">Nastavenie města</string>
-    <string name="entercity">Zadajte název města</string>
     <string name="sorry_not_insert">Nelze přidat další města</string>
-    <string name="location_wait">Hledám, prosím čekejte...</string>
     <string name="widget_transparent">prrůhlednost widgetu</string>
     <string name="widget_v5">počasí v5</string>
-    <string name="lunar">lunar</string>
-    <string name="yue">月</string><!--NEPREKLADAT-->
-    <string name="ri">日</string><!--NEPREKLADAT-->
-    <string name="AQI">AQI</string>
-    <string name="zhouyi">周一</string><!--NEPREKLADAT-->
-    <string name="zhouer">周二</string><!--NEPREKLADAT-->
-    <string name="zhousan">周三</string><!--NEPREKLADAT-->
-    <string name="zhousi">周四</string><!--NEPREKLADAT-->
-    <string name="zhouwu">周五</string><!--NEPREKLADAT-->
-    <string name="zhouliu">周六</string><!--NEPREKLADAT-->
-    <string name="zhouri">周日</string><!--NEPREKLADAT-->
-    <string name="v5_nolocation">Žádná oblast</string>
-    <string name="v5_add_city">Stiskni a nastav</string>
+    <string name="yue">月</string>
+    <string name="ri">日</string>
+    <string name="zhouyi">周一</string>
+    <string name="zhouer">周二</string>
+    <string name="zhousan">周三</string>
+    <string name="zhousi">周四</string>
+    <string name="zhouwu">周五</string>
+    <string name="zhouliu">周六</string>
+    <string name="zhouri">周日</string>
     <string name="v5_excellent">excellent</string>
     <string name="v5_good">good</string>
     <string name="v5_excellent_build">excellent</string>
@@ -108,7 +109,6 @@
     <string name="weather_citydelete_error">Nepodařilo se smazat město</string>
     <string name="weather_city_auto_update_ok">úspěšně nastaveno</string>
     <string name="weather_du">°</string>
-    <string name="weather_unknown">neznámý</string>
     <string name="weather_last_update_time">Poslední aktualizace</string>
     <string name="weather_show_ins">Zobrazovat v hlavičce</string>
 </resources>

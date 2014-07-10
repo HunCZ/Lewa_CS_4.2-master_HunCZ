@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">Žádné datové připojení %s min.</item>
-        <item quantity="one">Žádné datové připojení %s min.</item>
+        <item quantity="other">Žádné datové připojení %s minut</item>
+        <item quantity="one">Žádné datové připojení %s minut</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Telefon bude v režimu zpětného nouzového volání %s minut. Zatímco v tomto režimu je možné použít žádné aplikace, které pomocí datového připojení. Chcete nyní ukončit?</item>
-        <item quantity="one">Telefon bude v režimu zpětného nouzového volání pro %s minut. Zatímco v tomto režimu lze použít bez apps pomocí datového připojení. Chcete nyní ukončit?</item>
+        <item quantity="other">Telefon bude v režimu nouzového volání na %s minut. V tomto režimu nelze použít žádné aplikace využívající datové připojení. Chcete režim ukončit nyní?</item>
+        <item quantity="one">Telefon bude v režimu nouzového volání na %s minut. V tomto režimu nelze použít žádné aplikace využívající datové připojení. Chcete režim ukončit nyní?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Vybraná akce není k dispozici při v režimu zpětného nouzového volání. Telefon bude v tomto režimu pro %s minut. Chcete nyní ukončit?</item>
-        <item quantity="one">Vybraná akce není k dispozici při v režimu zpětného nouzového volání. Telefon bude v tomto režimu pro %s minut. Chcete nyní ukončit?</item>
+        <item quantity="other">Vybraná akce není k dispozici v režimu nouzového volání. Telefon bude v tomto režimu %s minut. Chcete režim ukončit nyní?</item>
+        <item quantity="one">Vybraná akce není k dispozici v režimu nouzového volání. Telefon bude v tomto režimu %s minut. Chcete režim ukončit nyní?</item>
     </plurals>
 </resources>
