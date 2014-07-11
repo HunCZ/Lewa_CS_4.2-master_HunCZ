@@ -25,7 +25,7 @@
     <string name="usb_ums_title">USB úložiště</string>
     <string name="usb_ums_summary">Doporučen režim XP. Umožňuje přenášet soubory mezi počítačem a Android zařízení.</string>
     <string name="usb_charge_title">Pouze nabíjení</string>
-    <string name="usb_charge_summary">Zastavit všechny USB funkce, snížit potřebu a urychlit nabíjení přes USB.</string>
+    <string name="usb_charge_summary">Zastavit všechny USB funkce, snížit spotřebu a urychlit nabíjení přes USB.</string>
     <string name="NI_Request_ID">ID žadatele</string>
     <string name="NI_Request_ClientName">Jméno klienta</string>
     <string name="agps_str_verify">Ověření</string>
